@@ -10,7 +10,7 @@ Here is a preview of some of the questions explored within this dataset. Feel fr
 - When did the United States return to pre-pandemic levels of spending?
 - What are the spending trends between the four quartiles of median income across all market category codes?
 - Do these trends persist in essential categories such as spending in grocery and food stores?
-- Is there a correlation between month and spending in a certain category code?
+- Is there a correlation between time and spending in a certain category code?
   
 #### State Level
 - In what states do the lower quantiles spend more than the higher quanitiles on average? Which state has the biggest difference?
