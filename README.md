@@ -13,8 +13,9 @@ Here is a preview of some of the questions explored within this dataset. Feel fr
 - Is there a correlation between time and spending in any category code?
   
 #### State Level
-- In what states do the lower quantiles spend more than the higher quanitiles on average? Which state has the biggest difference?
-- In what sates do the higher quantiles spend more than the lower quantiles on average? Which state has the biggest difference?
+- In which states do the lower quantiles spend more than the higher quanrtiles relatively? Which state has the biggest difference?
+- In which states do the higher quantiles spend more than the lower quanriles relatively? Which state has the biggest difference?
+- In which states do the higher and lower quartiles spend roughly the same relatively?
   
 #### City Level
 - Which cities experienced the steepest spending declines during the beginning of lockdown?
