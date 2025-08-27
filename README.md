@@ -1,12 +1,12 @@
 # 💳 Consumer Spending
 
 ## 📰 Overview
-This project analyzes time-series data of anonymized purchase data from consumer credit and debit cards across cities, states, and the United States as a whole. It explores spending relations between different market category codes and consumer income in order to generate insights for data-driven action.
+This project analyzes time-series data of anonymized purchase data from consumer credit and debit cards in the United States across 3 datasets. The datasets are split by the national level, state level, and the city level. It explores spending relations between different market category codes and consumer income in order to generate insights for data-driven action.
 
 ## 💡 Insights
 Here is a preview of some of the questions explored within this dataset. Feel free to explore the Jupyter Notebook in order to find the answer to these questions.
 
-#### Nation Level
+#### National Level
 - When did the United States return to pre-pandemic levels of spending?
 - What are the spending trends between the four quartiles of median income across all market category codes?
 - Do these trends persist in essential categories such as spending in grocery and food stores?
