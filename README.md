@@ -27,3 +27,9 @@ Here is a preview of some of the questions explored within this dataset. Feel fr
 ## 🛠 Tools Used
 - Jupyter Lab / Jupyter Notebook : Python
   - Libraries : numpy, pandas, matplotlib
+
+## 🔎 Preview
+A sneak peak of two graphs that can be found within the project.
+
+<img width="1359" height="777" alt="2c7250f18a1f463fbb8b97172acabf6f" src="https://github.com/user-attachments/assets/ec9087f3-763d-4f6f-a110-a15595edd9b7" />
+<img width="1361" height="778" alt="12b4518f7c752b3c784fd22693437068" src="https://github.com/user-attachments/assets/d4f39682-ac72-47be-bb0c-699786e02da0" />
