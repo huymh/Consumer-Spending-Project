@@ -1,4 +1,4 @@
-# 💳 Consumer Spending
+# 💳 Consumer Spending Time-Series Analysis
 
 ## 📰 Overview
 This project analyzes time-series data of anonymized purchase data from consumer credit and debit cards in the United States across 3 datasets. The datasets are split by the national level, state level, and the city level. It explores spending relations between different market category codes and consumer income in order to generate insights for data-driven action.
